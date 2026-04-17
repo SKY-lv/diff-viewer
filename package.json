@@ -1,0 +1,10 @@
+{
+  "name": "diff-viewer",
+  "version": "1.0.0",
+  "description": "Professional diff viewer with syntax highlighting, side-by-side view, and HTML export.",
+  "main": "diff_engine.js",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
